@@ -5,11 +5,11 @@
 </p>
 
 ### 🚀 Sobre mí
-[cite_start]Soy un **Técnico en Sistemas y Desarrollador Web**, actualmente especializándome en **Ciberseguridad**[cite: 36, 56]. [cite_start]Mi enfoque combina la creación de aplicaciones robustas con el análisis de vulnerabilidades y el hardening de sistemas[cite: 34].
+Soy un **Técnico en Sistemas y Desarrollador Web**, actualmente especializándome en **Ciberseguridad**. Mi enfoque combina la creación de aplicaciones robustas con el análisis de vulnerabilidades y el hardening de sistemas.
 
 - 🌍 Mi portfolio personal: [fviedma.info](https://www.fviedma.info/)
-- [cite_start]🛡️ Especialización actual: **Curso de Especialización en Ciberseguridad**.
-- [cite_start]🎓 Formación: **CFGS en Desarrollo de Aplicaciones Web (DAW)** y **CFGM en Sistemas Microinformáticos y Redes (SMR)**[cite: 58, 60].
+- 🛡️ Especialización actual: **Curso de Especialización en Ciberseguridad**.
+- 🎓 Formación: **CFGS en Desarrollo de Aplicaciones Web (DAW)** y **CFGM en Sistemas Microinformáticos y Redes (SMR)**.
 
 ---
 
@@ -41,15 +41,6 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-### 📊 Estadísticas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vonashura&show_icons=true&theme=dark&hide_border=false" alt="Estadísticas de Fernando" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vonashura&layout=compact&theme=dark&hide_border=false" alt="Lenguajes más usados" />
-</p>
 
 ---
 
