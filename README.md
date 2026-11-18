@@ -8,7 +8,7 @@
 
 🟢 **En búsqueda activa de empleo** como desarrollador web (Full Stack / Backend) o en puestos IT con foco en seguridad. Zona Barcelona / Vallès o remoto.
 
-- 🌍 Portfolio: [fviedma.info](https://www.fviedma.info/)
+- 🌍 Portfolio: [fviedma.info](https://www.fviedma.dev/)
 - 🎓 **Curso de Especialización en Ciberseguridad** (finalizado, 2026)
 - 🎓 **CFGS en Desarrollo de Aplicaciones Web (DAW)**
 - 🎓 **CFGM en Sistemas Microinformáticos y Redes (SMR)**
@@ -22,7 +22,7 @@
 |---|---|---|
 | [**MomoGuard**](https://momoguard.es) | Bot de Discord con panel web: bienvenidas, verificación/seguridad de usuarios y avisos de directos | Node.js · Next.js · Vercel |
 | [**CiberChurros**](https://ciberchurros.com) | Plataforma de reconocimiento de red desde el navegador con agente local en Python, análisis con IA e informes PDF | Laravel 12 · Alpine.js · Tailwind · Python |
-| [**Portfolio**](https://www.fviedma.info/) | Web personal con editor de contenido propio | Laravel 12 · Tailwind v4 · SQLite |
+| [**Portfolio**](https://www.fviedma.dev/) | Web personal con editor de contenido propio | Laravel 12 · Tailwind v4 · SQLite |
 | [**StayIn**](https://github.com/vonashura/stayin) | Sistema de gestión hotelera: reservas, habitaciones y servicios | Laravel · PHP · MySQL |
 | [**DealCash**](https://github.com/vonashura/dealcash) | Plataforma de subastas online con pujas en tiempo real | PHP · MySQL |
 | [**La Víbria**](https://github.com/vonashura/lavibria) | Rediseño web de un espacio juvenil de Terrassa | Astro · Tailwind · WordPress · AWS |
