@@ -8,7 +8,7 @@
 
 🟢 **En búsqueda activa de empleo** como desarrollador web (Full Stack / Backend) o en puestos IT con foco en seguridad. Zona Barcelona / Vallès o remoto.
 
-- 🌍 Portfolio: [fviedma.info](https://www.fviedma.dev/)
+- 🌍 Portfolio: [fviedma.dev](https://www.fviedma.dev/)
 - 🎓 **Curso de Especialización en Ciberseguridad** (finalizado, 2026)
 - 🎓 **CFGS en Desarrollo de Aplicaciones Web (DAW)**
 - 🎓 **CFGM en Sistemas Microinformáticos y Redes (SMR)**
